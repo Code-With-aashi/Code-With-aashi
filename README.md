@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there I'm Aashi Agarwal 👋
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 <!--
 **Code-With-aashi/Code-With-aashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
