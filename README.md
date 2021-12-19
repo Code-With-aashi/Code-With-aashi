@@ -27,7 +27,7 @@ I love the entire process of developing models. I love the challenge of finding 
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/aashi-agarwal22"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/aashi-agarwal22"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Aashi Agarwal | LinkedIn" width="21px"/></a>
 
 
 </br>
@@ -65,8 +65,8 @@ I love the entire process of developing models. I love the challenge of finding 
 ![](https://img.shields.io/badge/Tools-PowerBi-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-![](https://img.shields.io/badge/Tools-Crystal Reports-informational?style=flat&logo=GitHub&color=181717)
-![](https://img.shields.io/badge/Tools-SAP B1-informational?style=flat&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/Tools-CrystalReports-informational?style=flat&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/Tools-SAPB1-informational?style=flat&logo=GitHub&color=181717)
 
 
 </br>
