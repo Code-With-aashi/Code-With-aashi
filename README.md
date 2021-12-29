@@ -37,7 +37,7 @@ I love the entire process of developing models. I love the challenge of finding 
 
 - My old projects
 - Deep Learning
-- My CSS skill
+- My Computer Science skill
 
 ## 🌱 I'm currently learning
 
