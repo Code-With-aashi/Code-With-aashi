@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 I'm a junior Data Scientist  💻!
 </h2> 
 
-I love the entire process of developing models. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+I love the entire process of developing models. I love the challenge of finding caches and spending time to meet new people. 
 
 ### 🤝 Connect with me:
 
@@ -69,6 +69,5 @@ I love the entire process of developing models. I love the challenge of finding 
 ![](https://img.shields.io/badge/Tools-SAPB1-informational?style=flat&logo=GitHub&color=181717)
 
 
-</br>
-</br>
-## Thanks for visit my profile...
+
+## Thanks for visiting my profile...
