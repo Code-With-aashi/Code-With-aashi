@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 <h2 align="center">
-I'm a junior Data Scientist  💻!
+I'm a Data Scientist  💻!
 </h2> 
 
 I love the entire process of developing models. I love the challenge of finding caches and spending time to meet new people. 
