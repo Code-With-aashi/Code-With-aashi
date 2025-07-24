@@ -40,6 +40,8 @@ I love the entire process of developing models. I love the challenge of finding 
 
 - My old projects
 - Deep Learning
+- Gen AI
+- Data Analyst
 - My Computer Science skill
 
 ## 🌱 I'm currently learning
