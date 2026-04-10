@@ -40,7 +40,8 @@ I love the entire process of developing models. I love the challenge of finding 
 - Deep Learning
 - Gen AI
 - Data Analyst
-- My Computer Science skill
+- AWS/ Azure
+- My Computer Science skills
 
 ## 🌱 I'm currently learning
 
