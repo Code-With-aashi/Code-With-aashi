@@ -25,9 +25,7 @@ I'm a Data Scientist  💻!
 
 I love the entire process of developing models. I love the challenge of finding caches and spending time to meet new people. 
 
-### 🤝 Connect with me:
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/aashi-agarwal22)
 
 #### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
